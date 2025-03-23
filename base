@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/SwauxyYTB/Swaux-Universal-Menu-V14-Release-R4/refs/heads/main/base
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SwauxyYTB/Swaux-Universal-Menu-V14-Release-R4/refs/heads/main/base"))()
